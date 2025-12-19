@@ -1,0 +1,607 @@
+{
+  "bolumler_ve_ozellikleri": [
+          "--- LİSANS BÖLÜMLERİ (4 YILLIK) ---",
+        "Hukuk Fakültesi: Bahçelievler yerleşkesindedir. Üniversitenin en köklü fakültelerinden biridir. Teorik eğitimin yanı sıra, kampüs içerisindeki 'Duruşma Salonu'nda yapılan simülasyonlarla öğrencilere hukuki bakış açısı ve mesleki pratik kazandırır.",
+        "Bilgisayar Mühendisliği: Ataköy yerleşkesindedir. Mühendislik Fakültesi bünyesinde, MÜDEK akreditasyonuna sahiptir. Yazılım mimarisi, donanım ve yapay zeka alanlarında, gelişmiş laboratuvar altyapısıyla yetkin mühendisler yetiştirir.",
+        "Elektrik-Elektronik Mühendisliği: Ataköy yerleşkesindedir. Haberleşme, sinyal işleme ve güç sistemleri üzerine yoğunlaşır. Sektör standartlarında laboratuvarlarda devre tasarımı ve analizi eğitimi verir.",
+        "Endüstri Mühendisliği: Ataköy yerleşkesindedir. Üretim ve hizmet sistemlerinin verimliliğini artırmaya odaklanır. Yönetim bilişim sistemleri ve optimizasyon alanlarında yetkin, yönetici adayı mühendisler yetiştirir.",
+        "İnşaat Mühendisliği: Ataköy yerleşkesindedir. Yapı statiği, zemin mekaniği ve proje yönetimi konularında uzmanlaşmıştır. Deprem güvenliği ve sürdürülebilir yapı teknolojileri üzerine teknik eğitim verir.",
+        "Mimarlık: Ataköy yerleşkesindedir. Tasarım stüdyoları ve maket atölyeleri 7/24 öğrencilerin kullanımına açıktır. Estetik ve tekniği birleştiren, proje odaklı ve yoğun uygulamalı bir eğitim müfredatı vardır.",
+        "İç Mimarlık ve Çevre Tasarımı: Ataköy yerleşkesindedir. Mekan organizasyonu, mobilya tasarımı ve ergonomi üzerine odaklanır. Yaratıcı stüdyo dersleriyle uygulama ağırlıklı eğitim sunar.",
+        "Moleküler Biyoloji ve Genetik: Ataköy yerleşkesindedir. Tam donanımlı araştırma laboratuvarlarında hücre biyolojisi, genetik kodlama ve biyoteknoloji üzerine bilimsel çalışmalar yürütülür.",
+        "Matematik ve Bilgisayar Bilimleri: Ataköy yerleşkesindedir. İleri matematiksel analiz yeteneğini yazılım algoritmalarıyla birleştiren, veri bilimi ve kriptografi alanlarına hakim uzmanlar yetiştirir.",
+        "Psikoloji: Ataköy yerleşkesindedir. İnsan davranışlarını ve zihinsel süreçleri inceler. Klinik, gelişim ve endüstriyel psikoloji alt dallarında akademik derinliğe sahip popüler bir bölümdür.",
+        "Türk Dili ve Edebiyatı: Ataköy yerleşkesindedir. Türk kültürünü, dilin tarihsel gelişimini ve edebi metinleri bilimsel yöntemlerle inceleyen filologlar ve araştırmacılar yetiştirir.",
+        "İngiliz Dili ve Edebiyatı: Ataköy yerleşkesindedir. Batı edebiyatı, kültür incelemeleri ve dilbilim üzerine eleştirel düşünme yeteneği kazandıran, akademik İngilizce yetkinliği yüksek mezunlar verir.",
+        "İşletme: Basın Ekspres yerleşkesindedir. Kurumsal yönetim, pazarlama stratejileri ve finansal analiz konularında uzman, liderlik vasıfları gelişmiş profesyoneller yetiştirir.",
+        "İktisat: Basın Ekspres yerleşkesindedir. Mikro ve makro ekonomik dengeleri, piyasa analizlerini ve bankacılık sistemlerini inceleyen, finansal okuryazarlığı yüksek ekonomistler yetiştirir.",
+        "Uluslararası İlişkiler: Basın Ekspres yerleşkesindedir. Diplomasi, dış politika ve küresel siyaset dinamiklerini analiz eden, kamu ve özel sektörde stratejist olarak çalışabilecek mezunlar verir.",
+        "Uluslararası Ticaret ve Finansman: Basın Ekspres yerleşkesindedir. İthalat-ihracat operasyonları, gümrük mevzuatı ve uluslararası finans piyasaları üzerine sektörel odaklı eğitim verir.",
+        "Girişimcilik: Basın Ekspres yerleşkesindedir. İş fikri geliştirme, start-up yönetimi ve inovasyon süreçleri üzerine odaklanan, öğrencilerine kendi işini kurma vizyonu kazandıran bir bölümdür.",
+        "Halkla İlişkiler ve Reklamcılık: Ataköy yerleşkesindedir. Kurumsal iletişim, marka yönetimi ve yaratıcı reklam kampanyaları tasarlama üzerine sektörle entegre eğitim verir.",
+        "Radyo, Televizyon ve Sinema: Ataköy yerleşkesindedir. Senaryo yazımından kurguya, yönetmenlikten kamera kullanımına kadar prodüksiyonun her aşamasını stüdyolarda uygulamalı öğretir.",
+        "Yeni Medya ve İletişim: Ataköy yerleşkesindedir. Dijital yayıncılık, sosyal medya yönetimi ve internet teknolojileri üzerine odaklanan, çağın iletişim modellerini öğreten bölümdür.",
+        "Çizgi Film ve Animasyon: Ataköy yerleşkesindedir. 2D/3D animasyon teknikleri, karakter tasarımı ve oyun görselleştirmesi üzerine Mac laboratuvarlarında sanat ve teknolojiyi birleştiren eğitim verir.",
+        "İletişim ve Tasarımı: Ataköy yerleşkesindedir. Grafik tasarım, web arayüzü ve görsel iletişim prensiplerini dijital araçlarla harmanlayan çok yönlü tasarımcılar yetiştirir.",
+        "Dijital Oyun Tasarımı: Ataköy yerleşkesindedir. Oyun motorları, seviye tasarımı ve oyun hikayeleştirme üzerine hem yazılımsal hem de sanatsal yetkinlik kazandırır.",
+        "Sanat ve Kültür Yönetimi: Ataköy yerleşkesindedir. Müzeler, galeriler ve kültür-sanat organizasyonlarının idari ve küratöryel süreçlerini yönetecek profesyoneller yetiştirir.",
+        "Okul Öncesi Öğretmenliği: Basın Ekspres yerleşkesindedir. Erken çocukluk dönemindeki gelişimi destekleyen, pedagojik formasyonu güçlü ve donanımlı eğitimciler yetiştirir.",
+        "Özel Eğitim Öğretmenliği: Basın Ekspres yerleşkesindedir. Farklı gelişim gösteren bireylerin eğitim ihtiyaçlarına yönelik bireyselleştirilmiş öğretim yöntemleri sunan uzman öğretmenler yetiştirir.",
+        "İngilizce Öğretmenliği: Basın Ekspres yerleşkesindedir. Dil edinimi teorileri ve modern öğretim teknikleri ışığında, İngilizceyi etkin bir şekilde öğretecek nitelikli öğretmenler mezun eder.",
+        "Rehberlik ve Psikolojik Danışmanlık (PDR): Basın Ekspres yerleşkesindedir. Eğitim kurumlarında ve rehabilitasyon merkezlerinde bireylerin psikolojik ve sosyal gelişimine destek olacak uzmanlar yetiştirir.",
+        "Sınıf Öğretmenliği: Basın Ekspres yerleşkesindedir. İlkokul düzeyinde temel eğitimi verecek, çocuk psikolojisinden anlayan, çağdaş eğitim vizyonuna sahip öğretmenler yetiştirir.",
+        "Yabancı Diller Eğitimi: Basın Ekspres yerleşkesindedir. Yabancı dil öğretiminin metodolojisi ve dilbilim üzerine akademik çalışmalar yürüten bölümdür.",
+        "Fizyoterapi ve Rehabilitasyon: Bahçelievler yerleşkesindedir. Kas-iskelet sistemi bozukluklarının tedavisinde rol alan, manuel terapi ve egzersiz yöntemlerine hakim fizyoterapistler yetiştirir.",
+        "Beslenme ve Diyetetik: Bahçelievler yerleşkesindedir. Toplum sağlığını korumaya yönelik beslenme programları hazırlayan, gıda kimyası ve diyetetik alanında uzmanlar yetiştirir.",
+
+        "--- ÖN LİSANS BÖLÜMLERİ (2 YILLIK - MYO) ---",
+        "Bilgisayar Programcılığı: Derslerin çoğu Ataköy yerleşkesindedir. Sektöre en hızlı ve donanımlı yazılımcıları yetiştiren bölümler arasındadır. Bölüm içerisinde yazılım dilleri, web ve mobil uygulama geliştirme, oyun geliştirme, yapay zeka uygulamaları, veritabanı sistemleri ve algoritma temelleri öğretilir. Bölüm güçlü teknolojik altyapısı ve bilgisayar laboratuvarlarında gerçekleştirilen uygulama odaklı eğitimiyle öne çıkmaktadır. DGS ile Bilgisayar ve Yazılım Mühendisliği gibi bölümlere geçiş yapılabilir. Akademik kadrosu oldukça geniş ve deneyimlidir. Bölüm Başkanı Erdem Yücesan ise tam anlamıyla bir vizyonerdir; öğrencilerine sadece hocalık değil, mentörlük yapar. Dersleri ve tecrübesi öğrenciler için büyük bir şanstır. Onun dersleri kaçmaz! Ayrıca danışman hocalarımız Muharrem Altunışık ve Büşra Bozoğlu öğrencilere çokça yardımcı olurlar. Bütün sorularımıza cevap vermeye çalışırlar ancak sınav haftalarında biraz yoğun olabilirler. ",
+        "Adalet: Bahçelievler yerleşkesindedir. Hukuk ve adalet hizmetlerinde görev alacak, temel hukuk bilgisine ve dosyalama yetkinliğine sahip nitelikli personeller yetiştirir.",
+        "Alternatif Enerji Kaynakları Teknolojisi: İncirli yerleşkesindedir. Güneş ve rüzgar enerjisi sistemlerinin kurulumu ve bakımı konusunda teknik bilgi veren, sürdürülebilir enerji uzmanları yetiştirir.",
+        "Bankacılık ve Sigortacılık: İncirli yerleşkesindedir. Finansal piyasaların işleyişi, bankacılık operasyonları ve risk yönetimi konularında sektöre hazır personel yetiştirir.",
+        "Bilişim Güvenliği Teknolojisi: İncirli yerleşkesindedir. Ağ güvenliği, siber savunma stratejileri ve bilgi güvenliği standartları üzerine teorik ve uygulamalı eğitim verir.",
+        "Çocuk Gelişimi: İncirli yerleşkesindedir. 0-6 yaş grubu çocukların gelişim özelliklerini takip eden, okul öncesi eğitim kurumlarında görev alacak yardımcı eğitimciler yetiştirir.",
+        "Dış Ticaret: İncirli yerleşkesindedir. İthalat-ihracat mevzuatı, gümrük işlemleri ve uluslararası ticaret yönetimi konularında uzmanlaşmış meslek elemanları yetiştirir.",
+        "E-Ticaret ve Pazarlama: İncirli yerleşkesindedir. Dijital pazarlama araçları, e-ticaret altyapıları ve online satış stratejileri üzerine güncel bir eğitim sunar.",
+        "Elektronik Teknolojisi: İncirli yerleşkesindedir. Elektronik devrelerin tasarımı, bakımı ve onarımı konusunda yetkin, sanayinin ihtiyaç duyduğu teknikerler yetiştirir.",
+        "Grafik Tasarımı: İncirli yerleşkesindedir. Görsel iletişim problemlerini çözen, tasarım programlarına hakim, yaratıcı tasarımcılar yetiştirir.",
+        "Halkla İlişkiler ve Tanıtım (Ön Lisans): İncirli yerleşkesindedir. Kurum içi ve dışı iletişimi yönetecek, organizasyon becerisi yüksek iletişim uzmanı adayları yetiştirir.",
+        "Hava Lojistiği: İncirli yerleşkesindedir. Hava kargo operasyonları, tedarik zinciri ve havacılık lojistiği süreçlerine hakim personel yetiştirir.",
+        "İklimlendirme ve Soğutma Teknolojisi: İncirli yerleşkesindedir. Isıtma, soğutma ve havalandırma (HVAC) sistemlerinin projelendirilmesi ve bakımı üzerine teknik eğitim verir.",
+        "İnşaat Teknolojisi: İncirli yerleşkesindedir. Yapı projelerinin saha uygulamasında görev alacak, teknik çizim ve malzeme bilgisine sahip inşaat teknikerleri yetiştirir.",
+        "İnsansız Hava Aracı Teknolojisi ve Operatörlüğü: İncirli yerleşkesindedir. İHA (Drone) sistemlerinin bakımı, onarımı ve pilotajı üzerine eğitim veren, havacılığın yükselen alanıdır.",
+        "İşletme Yönetimi: İncirli yerleşkesindedir. İşletmelerin idari süreçlerini yönetecek, muhasebe ve ofis yönetimi bilgisine sahip personel yetiştirir.",
+        "Lojistik: İncirli yerleşkesindedir. Depolama, dağıtım ve nakliye süreçlerini planlayan, tedarik zinciri yönetiminde uzmanlaşmış personel yetiştirir.",
+        "Mahkeme Büro Hizmetleri: Bahçelievler yerleşkesindedir. Yargı organlarında yazı işleri ve idari süreçleri yürütecek, UYAP sistemine hakim personel yetiştirir.",
+        "Moda Tasarımı: İncirli yerleşkesindedir. Hazır giyim sektörü için kalıp hazırlama, dikim teknikleri ve koleksiyon tasarımı eğitimi verir.",
+        "Optisyenlik: İncirli yerleşkesindedir. Görme kusurlarının düzeltilmesinde kullanılan optik gereçlerin hazırlanması ve uygulanması konusunda yetkili sağlık teknikerleri yetiştirir.",
+        "Sivil Hava Ulaştırma İşletmeciliği: İncirli yerleşkesindedir. Havalimanı ve havayolu şirketlerinde yer hizmetleri ve yolcu ilişkileri yönetimini üstlenecek personel yetiştirir.",
+        "Sivil Havacılık Kabin Hizmetleri: İncirli yerleşkesindedir. Uçuş güvenliği ve yolcu memnuniyetini sağlayacak kabin memurlarını, uçak içi simülasyon eğitimiyle yetiştirir.",
+        "Tıbbi Dokümantasyon ve Sekreterlik: İncirli yerleşkesindedir. Sağlık kurumlarında tıbbi terminolojiye hakim, hasta kayıt ve arşiv süreçlerini yönetecek sekreterler yetiştirir.",
+        "Turizm ve Otel İşletmeciliği: İncirli yerleşkesindedir. Konaklama ve seyahat sektöründe operasyonel ve idari görevler alacak, hizmet odaklı profesyoneller yetiştirir.",
+        "Uçak Teknolojisi: İncirli yerleşkesindedir. Hava araçlarının bakım ve onarım prosedürlerine hakim, uluslararası standartlarda yetkinlik kazanmış uçak teknisyenleri yetiştirir.",
+        "Uçuş Harekât Yöneticiliği: İncirli yerleşkesindedir. Uçuş planlaması, rota takibi ve yakıt hesabı yapan, pilotlara uçuş desteği veren dispeçer adayları yetiştirir."
+    ],
+    "yerleske_notlari": [
+        "LİSANS (4 Yıllık) bölümlerinin çoğu Ataköy ve Basın Ekspres yerleşkelerindedir.",
+        "ÖN LİSANS (2 Yıllık) Meslek Yüksekokulu programlarının çoğu İNCİRLİ yerleşkesindedir (Bakırköy).",
+        "Adalet ve Mahkeme Büro Hizmetleri Bahçelievler yerleşkesindedir."
+    
+    ],
+
+  "kulupler": [
+    {
+      "ad": "Adaleti Müdafaa ve Kamu Denetçiliği Kulübü",
+      "ozellik": " Hukuk öğrencilerinin adalet sistemine olan ilgisini artırmak, kamu denetçiliği alanında farkındalık yaratmak ve toplumsal sorumluluk projeleri geliştirmek amacıyla kurulmuş bir kulüptür. Hukuk seminerleri, adalet temalı etkinlikler ve kamu denetçiliği projeleri düzenler.",
+      "anahtar_kelimeler": ["hukuk", "adalet", "kamu denetçiliği", "sosyal sorumluluk","toplumsal farkındalık","hukuk kariyeri"]
+    },
+    {
+      "ad": "Akademik Araştırmalar Kulübü",
+      "ozellik": "Öğrencilerin akademik gelişimine destek olur; bilimsel okuma, makale yazma ve araştırma metodolojileri üzerine atölyeler düzenler.",
+      "anahtar_kelimeler": ["akademik", "araştırma", "bilimsel", "makale", "tez","Sunum ve iletişim","yaratıcı fikirler","araştırma yöntemleri","literatür taraması","akademik yazım","araştırma projeleri","akademik kariyer","bilimsel etkinlikler","akademik topluluk","akademik seminerler","akademik atölyeler","akademik danışmanlık"]
+    },
+    {
+      "ad": "AKUT Öğrenci Topluluğu",
+      "ozellik": "Doğal afetlere karşı farkındalık yaratan ve gönüllü kurtarma çalışmalarıyla topluma katkı sağlayan bir topluluk. Afet bilinci, ilk yardım ve arama kurtarma teknikleri üzerine eğitimler verir.",
+      "anahtar_kelimeler": ["akut", "afet", "deprem", "kurtarma", "ilk yardım", "gönüllülük"," sosyal sorumluluk","afet bilinci","acil durum yönetimi","arama kurtarma teknikleri","ilkyardım eğitimi","gönüllü faaliyetler","afet tatbikatları","afet eğitimi","topluluk dayanışması"]
+    },
+    {
+      "ad": "ARCHILab Kulübü",
+      "ozellik": "ARCHILab Kulübü, tasarım odaklı düşünen öğrencilerin bir araya gelerek fikir gelişttirdiği, ürettiği ve paylaştığı multidisipliner bir kulüptür. Mimarlık ve tasarım alanında yenilikçi projeler geliştirir; dijital modelleme ve sunum teknikleri üzerine workshoplar yapar.",
+      "anahtar_kelimeler": ["mimarlık", "tasarım", "model", "dijital", "proje", "sanat", "yaratıcı düşünce","3D modelleme","CAD","tasarım atölyesi","tasarım projeleri","tasarım eğitimi","tasarım seminerleri","tasarım konferansları"]
+    },
+    {
+      "ad": "Asimov Teknoloji Kulübü",
+      "ozellik": "Mühendisliği temel alarak projeler üreten, ürettiği projelerle ulusal ve uluslararası yarışmalara katılmayı hedefleyen bir öğrenci kulübüdür. Kulübümüz bir diğer amacı, İstanbul Kültür Üniversitesi'nde bir öğrenci hareketi oluşturmaktır.Robotik, yazılım, İHA ve teknoloji projeleri geliştirir. Kariyer etkinlikleri ve workshop'lar düzenler.",
+      "anahtar_kelimeler": ["yazılım", "kodlama", "robot", "teknoloji", "mühendislik", "bilgisayar", "yapay zeka", "workshop"]
+    },
+    {
+    "ad": "Atatürkçü Düşünce Kulübü",
+    "ozellik": "Kulübümüzün amacı; üniversitemizde bulunan Türk gençliğini Atatürkçülük çerçevesinde birleştirmek ve Atatürkçülüğü bilimsel bir temelle ele alarak yaygınlaştırmaktır. Milli değerlerimize sahip çıkmak, Atatürk ilke ve inkılaplarını anlamak ve anlatmak, bu doğrultuda etkinlikler düzenlemek kulübümüzün temel hedeflerindendir.Tarih, siyaset ve Atatürkçülük üzerine seminerler ve tartışma grupları düzenler.",
+    "anahtar_kelimeler": ["atatürk", "cumhuriyet", "tarih", "ilke", "düşünce", "siyaset", "bilinçlendirme","milli değerler", "inkılaplar", "öğrenci topluluğu","milli tarih","atatürk ilke ve inkılapları","tarih atölyesi","atatürkçülük tartışmaları","atatürkçülük etkinlikleri","atatürkçülük kulübü"]
+    },
+    {
+    "ad": "Bilişim ve Teknoloji Hukuku Kulübü",
+    "ozellik": "Dijital çağın hukuki boyutunu ele alarak bilişim ve teknolojiye dair yasal meselelerde farkındalık yaratan bir öğrenci kulübü. Bilişim hukuku, siber güvenlik ve dijital ticaret konularında seminerler ve atölyeler düzenler. ",
+    "anahtar_kelimeler": ["hukuk", "bilişim", "siber", "teknoloji", "veri", "e-ticaret", "bilişim hukuku","siber güvenlik","siber suçlar","bilişim hukuku eğitimi","siber güvenlik atölyesi","dijital hukuk seminerleri","veri koruma konferansları"]
+    },
+    {
+      "ad": "Blockchain Kulübü",
+      "ozellik": "Gelişen teknolojiler, blockhain ,nft metaverse, girişimcilik ve birçok alanda bilgi alabileceğiniz bir öğrenci kulübü.Blockchain teknolojisi ve kripto para birimleri hakkında bilgi edinmek, projeler geliştirmek ve sektördeki yenilikleri takip etmek isteyen öğrenciler için bir platform sağlar. Blockchain teknolojisi üzerine eğitimler, atölyeler ve proje geliştirme etkinlikleri düzenler.",
+      "anahtar_kelimeler": ["blockchain", "kripto para", "bitcoin", "ethereum","finans teknolojisi","dijital varlıklar","blokchain teknolojisi","blokchain uygulamaları","blokchain geliştirme","blokchain projeleri","blokchain eğitimi","blokchain kulübü","blokchain topluluğu","blokchain etkinliği","blokchain kariyeri"]
+    },
+    {
+    "ad": "Çevre Enerji Ve Sürdürülebilirlik Kulübü",
+    "ozellik": "İklim değişikliği, yenilenebilir enerji kaynakları ve çevre dostu sürdürülebilirlik projeleri geliştirir.",
+    "anahtar_kelimeler": ["çevre", "enerji", "sürdürülebilirlik", "iklim", "doğa", "yeşil"]
+    },
+    {
+      "ad": "Çizgi film ve Animasyon Kulübü",
+      "ozellik": "Çizgi film ve animasyon tutkunları için bir araya gelerek bu alanda projeler geliştiren ve etkinlikler düzenleyen bir kulüp.Çizgi film yapımı, animasyon teknikleri ve karakter tasarımı üzerine eğitimler verir. Öğrencilerin kendi projelerini geliştirmeleri için destek sağlar.Renkli ve yaratıcı bir ortam sunar. resim yapmayı, hikaye anlatımını ve dijital tasarımı seven öğrenciler için idealdir.",
+      "anahtar_kelimeler": ["çizgi film", "animasyon", "karakter tasarımı", "hikaye anlatımı", "grafik tasarım", "3D modelleme","2D animasyon","animasyon yazılımları","animasyon eğitimi","animasyon atölyesi","animasyon kulübü","animasyon topluluğu","animasyon etkinliği"]
+    },
+    {
+    "ad": "Çocuk Çalışmaları Kültür Kulübü",
+    "ozellik": "Çocuk hakları, eğitimi ve kültürel gelişimleri üzerine farkındalık yaratmayı ve projeler üretmeyi hedefler.",
+    "anahtar_kelimeler": ["çocuk", "eğitim", "kültür", "hak", "sosyal sorumluluk"]
+    },
+    {
+    "ad": "Dağcılık Kulübü",
+    "ozellik": "Tırmanış ve doğa sporları eğitimleri verir; teknik dağcılık ve zirve tırmanış gezileri düzenleyerek öğrencilere macera sunar.",
+    "anahtar_kelimeler": ["dağcılık", "tırmanış", "doğa", "spor", "kamp", "macera"]
+    },
+    {
+      "ad": "Dans Kulübü",
+      "ozellik": "Dans tutkunu öğrenciler için bir araya gelerek hem sanatı hem de eğlenceyi bir arada yaşatan renkli bir kulüp.Latin, Hip-hop ve halk dansları eğitimi verir. Yıl boyunca etkinliklerde yer alıp dans gösterileri düzenlerler.",
+      "anahtar_kelimeler": ["dans", "tango", "salsa", "hiphop", "performans","sahne","sanat","dans gösterisi","dans eğitimi","bale","dans kursu","dans çalışması","dans topluluğu","dans grubu","dans etkinliği","dans kulübü","dans topluluğu"]
+    },
+    {
+      "ad": "Deep Learning Kulübü",
+      "ozellik": "Derin öğrenme ve yapay zeka teknolojileri üzerine odaklanan, bu alanda projeler geliştiren ve eğitimler düzenleyen bir öğrenci kulübü.Yapay zeka ve derin öğrenme algoritmaları üzerine eğitimler verir. Proje geliştirme ve araştırma fırsatları sunar. Sektördeki yenilikleri takip etmek isteyen öğrenciler için idealdir. Derin öğrenme ve yapay zeka teknolojileri hakkında bilgi edinmek, projeler geliştirmek ve sektördeki yenilikleri takip etmek isteyen öğrenciler için bir platform sağlar. Derin öğrenme ve yapay zeka üzerine eğitimler, atölyeler ve proje geliştirme etkinlikleri düzenler. Sektörden isimleri davet ederek seminerler ve konferanslar düzenler.",
+      "anahtar_kelimeler": ["yapay zeka","yazılım","derin öğrenme", "makine öğrenimi", "veri bilimi", "algoritma","doğal dil işleme","yapay zeka projeleri","yapay zeka kariyeri"]
+    }
+    ,
+    {
+    "ad": "Dijital Dönüşüm Kulübü",
+    "ozellik": "Şirketlerin dijitalleşme süreçlerini, bulut teknolojilerini ve Endüstri 4.0 konularını inceleyen seminerler düzenler.",
+    "anahtar_kelimeler": ["dijital", "dönüşüm", "inovasyon", "teknoloji", "yönetim", "endüstri 4.0"]
+    },
+    {
+      "ad": "Doğa Yürüyüşleri Ve Kampçılık Kulübü",
+      "ozellik": "Düzenli olarak doğa yürüyüşleri (trekking) ve kamp etkinlikleri organize ederek öğrencilere yeni yerler keşfetme imkanı sunar.",
+      "anahtar_kelimeler": ["doğa", "kamp", "yürüyüş", "trekking", "macera", "sosyalleşme"]
+    },
+    {
+      "ad": "DreamsTalk Club",
+      "ozellik": "İngilizce konuşma pratiği yapmaya odaklanır; eğlenceli aktiviteler ve kültürlerarası sohbet ortamı sağlar.",
+      "anahtar_kelimeler": ["ingilizce", "konuşma", "pratik", "dil", "yabancı", "sosyal"]
+    },
+    {
+      "ad": "E-Spor Kulübü",
+      "ozellik": "Dijital oyun dünyasına ilgi duyan ve profesyonel e-spor etkinliklerine katılmak isteyenler için heyecan verici bir kulüp.League of Legends, Valorant gibi oyunlarda turnuvalar ve takım çalışmaları düzenler.",
+      "anahtar_kelimeler": ["oyun", "game", "lol", "valorant", "turnuva", "bilgisayar oyunu", "rekabet","e-spor","gaming","takım","oyuncu","turnuva","multiplayer","video oyunu"]
+    },
+    {
+      "ad": "Ekonomi kulübü",
+      "ozellik": "İstanbul Kültür Üniversitesi Ekonomi Kulübü, farklı bölümlerden öğrencileri ortak ilgi alanlarında buluşturarak ekonomik, sosyal ve kültürel etkinliklerle analiz ve profesyonel gelişimlerine katkı sağlar. Seminerler, eğitimler, borsa etkinlikleri ve sektör iş birlikleriyle ekonomi alanına ilgi duyan öğrencilere deneyim ve fırsatlar sunar.",
+      "anahtar_kelimeler": ["ekonomi", "finans", "pazarlama", "yönetim","şirket ziyaretleri","iktisat","üretim yönetimi","proje yönetimi","kalite kontrol"]
+    } ,
+    {
+      "ad": "English Literature Society Kulübü",
+      "ozellik": "İngiliz edebiyatını keşfetmek ve analiz etmek isteyen öğrenciler için bir araya gelerek kitap kulüpleri, tartışma grupları ve edebi etkinlikler düzenleyen bir kulüp. İngiliz edebiyatı üzerine okumalar yapar, tartışma grupları oluşturur ve edebi etkinlikler düzenler. İngiliz edebiyatına ilgi duyan öğrenciler için idealdir.",
+      "anahtar_kelimeler": ["ingiliz edebiyatı","kitap kulübü","Sunum ve iletişim","ingilizce konuşma","yabancı dil pratiği","dil becerileri","yazma atölyesi","okuma grubu","kültürel etkinlikler"]
+    },
+    {
+      "ad": "Erasmus Kulübü",
+      "ozellik": "Erasmus programına katılmak isteyen öğrencilere rehberlik eden, deneyimlerini paylaşan ve uluslararası kültürel etkinlikler düzenleyen bir kulüp.Erasmus deneyimlerini paylaşır, yurt dışı eğitim fırsatları hakkında bilgi verir ve kültürel etkinlikler düzenler.",
+      "anahtar_kelimeler": ["Erasmus", "yurt dışı eğitim", "kültürel değişim", "uluslararası", "yurt dışı", "dil öğrenme","kültürel etkinlikler","yurt dışı staj","yabancı dil pratiği","uluslararası öğrenci topluluğu","yurt dışı yaşam deneyimi","yurt dışı eğitim fırsatları","uluslararası projeler","yurt dışı eğitim danışmanlığı","uluslararası kariyer fırsatları"]
+    },
+    {
+      "ad": "Endüstri Mühendisliği Kulübü",
+      "ozellik": "İstanbul Kültür Üniversitesi Endüstri Mühendisliği Kulübü olarak birincil amacımız öğrencileri sektörle buluşturup gelecekleri hakkında fikir ve tecrübe kazandırmaktır. Her yıl gerçekleşen, önder firmaların CEO ve genel müdürlerini ağırladığımız FUTURE, yılın trend konusunu uzmanlarıyla ele aldığımız Karar Destek Sistemleri (KDS) etkinliklerimizin yanında; Mezunlar Paneli, Departman Tanıtımları ve çeşitli eğitimler içeren birçok etkinlik gerçekleştirmekteyiz. Endüstri mühendisliği alanında kariyer fırsatları, sektörel gelişmeler ve pratik beceriler kazandırmayı hedefler.",
+      "anahtar_kelimeler": ["mühendislik", "endüstri", "üretim", "lojistik", "yönetim", "verimlilik","süreç iyileştirme","proje yönetimi","kalite kontrol","üretim planlama","endüstri mühendisliği eğitimi","endüstri mühendisliği"]
+    },
+    {
+      "ad": "Etkili İletişim Kulübü",
+      "ozellik": "Öğrencilerin hitabet, beden dili, sunum ve müzakere becerilerini geliştirmeyi amaçlayan eğitimler ve atölyeler düzenler.",
+      "anahtar_kelimeler": ["iletişim", "hitabet", "sunum", "müzakere", "gelişim", "sosyal"]
+    },
+    {
+      "ad": "Express Bilim",
+      "ozellik": "Popüler bilim konularını, teknolojik gelişmeleri ve deneysel bilimsel çalışmaları ilgi çekici etkinliklerle anlatır.",
+      "anahtar_kelimeler": ["bilim", "deney", "teknoloji", "popüler bilim", "fizik", "kimya"]
+    },
+    {
+      "ad": "Farkındaysan Kulübü",
+      "ozellik": "Toplumsal ve bireysel farkındalık, kişisel gelişim ve pozitif psikoloji konularında seminerler ve etkinlikler düzenler.",
+      "anahtar_kelimeler": ["farkındalık", "gelişim", "kişisel", "psikoloji", "motivasyon", "sosyal"]
+    },
+    {
+      "ad": "Felsefe Kulübü",
+      "ozellik": "Felsefi sorulara yanıt arayan, düşünce sistemlerini inceleyen ve felsefi tartışmalar düzenleyen bir öğrenci kulübü.Felsefi metinler okur, tartışma grupları oluşturur ve felsefi etkinlikler düzenler. Felsefeye ilgi duyan öğrenciler için idealdir.",
+      "anahtar_kelimeler": ["felsefe", "düşünce sistemleri", "felsefi tartışmalar","felsefi etkinlikler" ]
+    },
+    {
+      "ad": "Fizyoterapi Ve Rehabilitasyon Kulübü",
+      "ozellik": "Fizyoterapi, egzersiz, sağlıklı yaşam ve rehabilitasyon alanında uzmanlarla seminerler ve uygulamalı eğitimler düzenler.",
+      "anahtar_kelimeler": ["fizyoterapi", "sağlık", "rehabilitasyon", "egzersiz", "tıp", "spor"]
+    },
+    {
+      "ad": "Fotoğrafçılık Kulübü",
+      "ozellik": "Fotoğrafçılığa ilgi duyan öğrenciler için bir araya gelerek teknik eğitimler, fotoğraf gezileri ve sergiler düzenleyen bir kulüp.Fotoğrafçılık teknikleri üzerine eğitimler verir. Fotoğraf gezileri ve sergiler düzenler. Fotoğrafçılığa ilgi duyan öğrenciler için idealdir.",
+      "anahtar_kelimeler": []
+    },
+    {
+      "ad": "Geek Kulübü",
+      "ozellik": "İKÜ Geek Kulübü: Kutu oyunu, frp, ve cosplay etkinlikleri düzenleyen bir kulüp amacimiz öğrencilerin eğlenip sosyallesmesidir. Geek kültürüne ilgi duyan öğrenciler için bir araya gelerek kutu oyunları, rol yapma oyunları (RPG) ve cosplay etkinlikleri düzenler. Bilim kurgu, fantastik edebiyat ve çizgi roman gibi alanlarda da etkinlikler yapar.",
+      "anahtar_kelimeler": ["geek", "bilim kurgu", "fantastik", "çizgi roman", "film", "kültür", "oyun", "cosplay", "RPG", "kutu oyunu", "sosyalleşme", "eğlence", "hobi", "takım", "yarışma", "turnuva"]
+    },
+    {
+      "ad": "Genç Gelişim Kulübü",
+      "ozellik": "Liderlik, zaman yönetimi ve kişisel motivasyon gibi alanlarda öğrencilerin becerilerini geliştirmeye yönelik eğitimler sunar.",
+      "anahtar_kelimeler": ["gelişim", "kişisel", "liderlik", "motivasyon", "kariyer", "eğitim"]
+    },
+    {
+      "ad": "Genç Tema Kulübü",
+      "ozellik": "Toprak ve doğal varlıkları korumaya odaklanır; fidan dikme, çevre bilinci ve gönüllülük projeleri yürütür.",
+      "anahtar_kelimeler": ["TEMA", "çevre", "doğa", "fidan", "gönüllülük", "sürdürülebilirlik"]
+    },
+    {
+      "ad": "Geri Dönüşüm Ve Sıfır Atık Kulübü",
+      "ozellik": "Kampüste geri dönüşümü ve sıfır atık yaşam prensiplerini teşvik eder; bilinçlendirme ve uygulamalı projeler yapar.",
+      "anahtar_kelimeler": ["geri dönüşüm", "sıfır atık", "çevre", "sürdürülebilirlik", "bilinç"]
+    },
+    {
+      "ad": "Gezi Kulübü",
+      "ozellik": "Türkiye'nin ve dünyanın farklı yerlerini keşfetmek isteyen, eğlenceler, partiler ve festivaller düzenleyerek öğrencilerin moral motivasyonunu yüksek seviyeye çıkaran eğlenceli ve keşif dolu geziler düzenleyen bir kulüp.Şehir içi ve dışı kültürel, doğa ve eğlence gezileri düzenler. Yeni yerler keşfetmek isteyen öğrenciler için idealdir.",
+      "anahtar_kelimeler": ["gezmek", "seyahat", "doğa", "kamp", "tarih", "sosyalleşme", "tur","keşif"]
+    },
+      {
+      "ad": "Girişimcilik ve İnovasyon Kulübü",
+      "ozellik": "Fikirden Girişime, Kültür'den Geleceğe diyerek çıktığımız bu yolculukta, özgün fikirleri gerçeğe dönüştürmek için buradayız! Burada eğlence var, öğrenme var, yenilik var! Sen de fikirlerini büyütmek, yeni insanlarla tanışmak ve girişimcilik dünyasında yerini almak istiyorsan, hemen aramıza katıl! Start-up fikirleri geliştirir, iş dünyası buluşmaları ve kariyer zirveleri düzenler. Öğrenci girişimciliğini destekler.",
+      "anahtar_kelimeler": ["iş", "para", "kariyer", "startup", "fikir", "ceo", "liderlik", "ekonomi","öğrenme","networking","girişimcilik","inovasyon","iş dünyası"]
+    },
+    {
+      "ad": "Gösteri Sanatları Kulübü",
+      "ozellik": "Dans, müzik ve tiyatro gibi farklı sahne sanatlarını birleştirerek deneysel performanslar ve atölyeler sergiler.",
+      "anahtar_kelimeler": ["sahne", "sanat", "gösteri", "performans", "müzik"]
+    },
+    {
+      "ad": "Hayvanları Koruma Ve Yaşatma Kulübü",
+      "ozellik": "İKÜ Hayvanları Koruma ve Yaşatma Kulübü olarak, üniversitemizdeki can dostlarımızın tedavi, beslenme, kısırlaştırma ve sahiplendirilme süreçlerini gerçekleştiriyoruz. Orman beslemeleri yaparak doğal yaşamlarına katkıda bulunuyoruz. Bu çalışmalarımızı, bağış kermesleri ve sosyal sorumluluk projeleri ile sürdürüyoruz. Hayvan hakları, koruma ve barınak projeleri üzerine bilinçlendirme ve etkinlikler düzenler.",
+      "anahtar_kelimeler": ["hayvan", "koruma", "barınak", "sosyal sorumluluk", "bağış" ,"hayvan sevgisi","hayvan hakları","hayvan barınağı","hayvan besleme","hayvan tedavi","hayvan sahiplendirme","hayvan etkinlikleri"]
+    },
+    {
+      "ad": "Hemşirelik Kulübü",
+      "ozellik": "İlk yardım, hasta bakımı ve hemşirelik mesleği üzerine bilinçlendirme ve uygulamalı eğitimler verir.",
+      "anahtar_kelimeler": ["hemşirelik", "sağlık", "ilk yardım", "bakım", "tıp", "eğitim"]
+    },
+    {
+      "ad": "Hukuk Kulübü",
+      "ozellik": "Hukukun farklı dallarında (ceza, medeni, idare) seminerler, maket duruşmalar ve güncel hukuki meseleler üzerine söyleşiler yapar.",
+      "anahtar_kelimeler": ["hukuk", "ceza", "medeni", "idare", "maket duruşma", "avukat"]
+    },
+    {
+      "ad": "İç Mimarlık & Tasarım Kulübü",
+      "ozellik": "İç Mimarlık ve Tasarım Kulübü, tasarıma ilgi duyan öğrencileri bir araya getirerek atölye, seminer ve projelerle mesleki ve yaratıcı gelişimlerini destekler. İlham verici bir ortamda sektörel bilgi, pratik beceriler ve kariyer farkındalığı kazandırmayı hedefler.",
+      "anahtar_kelimeler": ["iç mimarlık", "tasarım", "mimari", "çizim", "mekan", "sanat", "yaratıcılık"]
+    },
+    {
+      "ad": "IEEE",
+      "ozellik": "Üyelerimize bilim ve teknoloji alanlarında yön gösterici olmayı hedefliyor, teknik anlamda çalışmalarına destek vererek ve kişisel gelişimlerine katkı sağlayarak mühendislik ruhunun gün geçtikçe daha da güçlenmesi için çalışıyoruz. Elektrik, elektronik, bilgisayar ve mühendislik alanlarında projeler geliştirir, teknik eğitimler ve seminerler düzenler.",
+      "anahtar_kelimeler": ["mühendislik", "elektrik", "elektronik", "bilgisayar", "teknik","proje geliştirme","teknoloji","inovasyon","teknofest","teknik eğitimler","mühendislik projeleri","elektrik mühendisliği","elektronik mühendisliği","bilgisayar mühendisliği"]
+    }, 
+    {
+      "ad": "İKÜ Active",
+      "ozellik": "Kampüs içi ve dışı spor aktiviteleri, turnuvalar ve sağlıklı yaşam etkinlikleri düzenleyerek öğrencileri harekete teşvik eder. Yoga, koşu ve takım sporları gibi çeşitli spor dallarında etkinlikler yapar.",
+      "anahtar_kelimeler": ["spor", "aktivite", "sağlıklı yaşam", "fitness", "takım","yoga"]
+    },
+    {
+      "ad": "İKÜ Edebiyat Kulübü",
+      "ozellik": "Edebiyat klasikleri, güncel yazarlar ve şiir üzerine okuma, inceleme ve eleştiri toplantıları yaparak edebi kültürü zenginleştirir. Edebiyat severler için okuma grupları, şiir dinletileri ve yazar buluşmaları düzenler. ",
+      "anahtar_kelimeler": ["edebiyat", "kitap", "yazar", "şiir", "okuma", "sanat", "yazar", "kültür", "tartışma","okuma grubu","edebiyat semineri"]
+    },
+    {
+      "ad": "İKÜ Kadın Dayanışması",
+      "ozellik": "Toplumsal cinsiyet eşitliği, kadın hakları ve dayanışma konularında bilinçlendirme ve aktivizm çalışmaları yürütür.",
+      "anahtar_kelimeler": ["kadın", "dayanışma", "cinsiyet eşitliği", "hak", "aktivizm", "sosyal"]
+    },
+    {
+      "ad": "İKÜ Kreatif Kulübü",
+      "ozellik": "Grafik tasarım, illüstrasyon, görsel sanatlar ve yaratıcı düşünme becerileri üzerine uygulamalı workshop'lar düzenler.",
+      "anahtar_kelimeler": ["tasarım", "grafik", "sanat", "yaratıcı", "illüstrasyon", "görsel"]
+    },
+    {
+      "ad": "İKÜ Kültürhane Kulübü",
+      "ozellik": "Farklı kültürleri, sanat dallarını ve felsefi konuları kapsayan, geniş yelpazede kültürel etkinlikler düzenler.",
+      "anahtar_kelimeler": ["kültür", "sanat", "felsefe", "sosyalleşme", "tartışma"]
+    },
+    {
+      "ad": "İKÜ Roverium Kulübü",
+      "ozellik": "İKÜ Roverium olarak başta ERC (European Rover Challenge) olmak üzere çeşitli Rover yarışmalarına katılmak, uzay keşfi ve robotik teknolojileri alanında bilgi birikimini arttırıp üyelerimizi kişisel ve profesyonel gelişimlerini destekleyerek onları sektörün öncüleri arasında yer almaya hazırlamayı amaçlıyoruz. Robotik, uzay ve havacılık teknolojileri üzerine projeler geliştirir, yarışmalara katılır ve eğitimler düzenler.",
+      "anahtar_kelimeler": ["robotik", "uzay", "havacılık", "teknofest", "mühendislik", "yarışma", "proje","eğitim","teknoloji","inovasyon","araştırma","gelişim","teknofest","robotik projeleri","uzay teknolojileri","robotik atölyesi","uzay araştırmaları","havacılık projeleri"]
+    },
+    {
+      "ad": "İKÜ Sualtı Topluluğu",
+      "ozellik": "Su altı sporları (dalış, yüzme) eğitimleri verir, su altı yaşamı ve deniz koruma konularında farkındalık çalışmaları yapar.",
+      "anahtar_kelimeler": ["sualtı", "dalış", "yüzme", "deniz", "spor", "macera"]
+    },
+    {
+      "ad": "İKÜ Turizm ve Otel İşletmeciliği Kulübü",
+      "ozellik": "Turizm, otelcilik ve gastronomi sektörlerindeki güncel trendler üzerine geziler ve profesyonel buluşmalar düzenler.",
+      "anahtar_kelimeler": ["turizm", "otel", "gastronomi", "sektör", "işletme", "seyahat"]
+    },
+    {
+      "ad": "İKÜ Yönelim Eşitliği Kulübü",
+      "ozellik": "Cinsel yönelim ve cinsiyet kimliği eşitliği konularında bilinçlendirme, farkındalık ve destek etkinlikleri düzenler.",
+      "anahtar_kelimeler": ["eşitlik", "lgbti", "cinsiyet", "farkındalık", "sosyal", "destek"]
+    },
+    {
+      "ad": "IKU1337-Cybersecurity Society",
+      "ozellik": "Siber güvenlik, etik hackerlık ve ağ güvenliği konularında uygulamalı eğitimler verir, CTF (Capture The Flag) yarışmalarına katılır.",
+      "anahtar_kelimeler": ["siber güvenlik", "hacker", "bilişim", "yazılım", "güvenlik", "ağ"]
+    },
+    {
+      "ad": "IKUVENT Kulübü",
+      "ozellik": "Yenilikçi projeler ve etkinlikler düzenleyerek öğrencilerin girişimci ve yaratıcı potansiyellerini ortaya çıkarmayı hedefler.",
+      "anahtar_kelimeler": ["inovasyon", "girişim", "yaratıcılık", "proje", "etkinlik"]
+    },
+    {
+      "ad": "İngilizce Öğretmenliği Kulübü",
+      "ozellik": "İngilizce öğretimi metodları, dil gelişimi ve mesleki pratikler üzerine atölyeler ve seminerler düzenler.",
+      "anahtar_kelimeler": ["ingilizce", "öğretmenlik", "eğitim", "dil", "metod", "mesleki"]
+    },
+    {
+      "ad": "İnsan Hakları Kulübü",
+      "ozellik": "Evrensel insan hakları, temel özgürlükler ve toplumsal adalet konularında bilinçlendirme ve aktivizm çalışmaları yapar.",
+      "anahtar_kelimeler": ["insan hakları", "adalet", "sosyal", "özgürlük", "aktivizm", "hukuk"]
+    },
+    {
+      "ad": "İnsan Kaynakları Kulübü",
+      "ozellik": "İK süreçleri, yetenek yönetimi, mülakat teknikleri ve kariyer planlaması üzerine eğitimler ve sektör buluşmaları düzenler.",
+      "anahtar_kelimeler": ["İK", "insan kaynakları", "kariyer", "mülakat", "yönetim", "eğitim"]
+    },
+    {
+      "ad": "İşletme Kulübü",
+      "ozellik": "İşletme, pazarlama ve yönetim stratejileri alanında sektör profesyonelleriyle buluşmalar ve vaka analizleri yapar.",
+      "anahtar_kelimeler": ["işletme", "yönetim", "pazarlama", "strateji", "kariyer", "ekonomi"]
+    },
+    {
+      "ad": "Kalite Elçileri Kulübü",
+      "ozellik": "Kalite yönetimi ve standartlarına ilgi duyan öğrenciler için eğitimler ve sertifikalarla destek sağlayan bir topluluğuz. Üniversitemizin eğitim ve kampüs hayatında kalite süreçlerinin geliştirilmesini amaçlamaktayız. Kalite bilincini artırmak için seminerler ve atölyeler düzenler, kalite yönetim sistemleri üzerine çalışmalar yapar.",
+      "anahtar_kelimeler": ["kalite", "yönetim", "süreç", "iyileştirme", "kontrol", "farkındalık","süreç iyileştirme","kalite kontrol","kalite yönetim sistemi","kalite bilinci"]
+    },
+    {
+      "ad": "Kariyer Kulübü",
+      "ozellik": "Öğrencilerin kariyer hedeflerini belirlemesine yardımcı olur, CV hazırlama, staj ve iş arama süreçlerine destek verir.",
+      "anahtar_kelimeler": ["kariyer", "iş", "staj", "mülakat", "gelişim", "CV"]
+    },
+    {
+      "ad": "Kızılay Kulübü",
+      "ozellik": "Kan bağışı kampanyaları düzenler, sosyal yardım ve afet bilinci projelerinde gönüllü olarak çalışır.",
+      "anahtar_kelimeler": ["Kızılay", "kan bağışı", "afet", "yardım", "gönüllülük", "sosyal"]
+    },
+    {
+      "ad": "Kültür DJ & Production Academy Kulübü",
+      "ozellik": "DJ'lik teknikleri, müzik prodüksiyonu ve ses tasarımı üzerine eğitimler ve performans fırsatları sunar.",
+      "anahtar_kelimeler": ["müzik", "DJ", "prodüksiyon", "ses", "sahne", "eğitim"]
+    },
+    {
+      "ad": "Kültürel Değerleri Koruma Kulübü",
+      "ozellik": "Tarihi ve kültürel mirasın korunması, Anadolu gelenekleri ve sanatsal değerler üzerine geziler ve etkinlikler düzenler.",
+      "anahtar_kelimeler": ["kültür", "tarih", "sanat", "miras", "gezmek", "koruma"]
+    },
+    {
+      "ad": "Liderlik ve Yöneticilik Kulübü",
+      "ozellik": "Liderlik becerilerini geliştirmeye odaklanır, takım çalışması, motivasyon ve yöneticilik üzerine atölyeler düzenler.",
+      "anahtar_kelimeler": ["liderlik", "yönetim", "kişisel gelişim", "takım", "motivasyon", "kariyer"]
+    },
+    {
+      "ad": "Matematik Bilgisayar Kulübü",
+      "ozellik": "Matematik ve Bilgisayar Kulübü, matematik ve bilgisayar bilimlerini bir araya getirerek yazılıma odaklanan projeler ve etkinlikler düzenler. İş birliğini teşvik eden yapısıyla kodlama becerilerini geliştirir, teknolojideki güncel gelişmeleri takip ederek üyelerini geleceğe hazırlar.",
+      "anahtar_kelimeler": ["matematik", "bilgisayar", "bilim", "algoritma", "modelleme", "kodlama", "yazılım","programlama","veri yapıları","yapay zeka","makine öğrenimi","matematiksel modelleme","algoritma geliştirme","kodlama atölyesi"]
+    },
+    {
+      "ad": "Mezun İlişkileri Kulübü",
+      "ozellik": "Mezunlar ve öğrenciler arasında iletişim köprüsü kurar, kariyer mentorluk etkinlikleri ve buluşmalar organize eder.",
+      "anahtar_kelimeler": ["mezun", "kariyer", "mentorluk", "sosyal", "iş", "ağ", "network"]
+    },
+    {
+      "ad": "Mimarlık Kulübü",
+      "ozellik": "Mimari tasarım, şehir planlama ve sürdürülebilir mimari konularında konferanslar, sergiler ve teknik geziler düzenler.",
+      "anahtar_kelimeler": ["mimarlık", "tasarım", "şehir", "sürdürülebilirlik", "sanat", "proje"]
+    },
+    {
+      "ad": "Moda Kulübü",
+      "ozellik": "Moda tasarımı, styling, tekstil ve moda pazarlaması üzerine workshop'lar, defileler ve sektör buluşmaları yapar.",
+      "anahtar_kelimeler": ["moda", "tasarım", "tekstil", "styling", "defile", "pazarlama"]
+    },
+    {
+      "ad": "Moleküler Biyoloji ve Genetik Kulübü",
+      "ozellik": "Genetik, biyoteknoloji ve moleküler bilim alanlarında seminerler, laboratuvar gezileri ve bilimsel okumalar düzenler.",
+      "anahtar_kelimeler": ["biyoloji", "genetik", "moleküler", "bilim", "biyoteknoloji", "laboratuvar"]
+    },
+    {
+      "ad": "Muhasebe ve Denetim Kulübü",
+      "ozellik": "Finansal raporlama, vergilendirme, iç ve dış denetim konularında akademik ve sektörel etkinlikler yapar.",
+      "anahtar_kelimeler": ["muhasebe", "denetim", "finans", "vergi", "raporlama", "kariyer"]
+    },
+    {
+      "ad": "Münazara Kulübü",
+      "ozellik": "Etkili konuşma, argümantasyon ve eleştirel düşünme becerilerini geliştirmek için münazara turnuvaları düzenler.",
+      "anahtar_kelimeler": ["münazara", "konuşma", "tartışma", "hitabet", "iletişim", "gelişim"]
+    },
+    {
+      "ad": "İKÜ Müzik Kulübü",
+      "ozellik": "Üniversitemize çeşitli alanlarda uzmanlaşmak amacı ile eğitim almak için gelen öğrencilerin müzik yeteneklerini keşfedip geliştirebilecekleri ortamı ve eğitim olanaklarını sunmaktır.Orkestra, koro ve sahne çalışmaları yapar. Yıl boyunca büyük ve küçük konserler düzenleyerek öğrencilere sahne deneyimi sunar.",
+      "anahtar_kelimeler": ["müzik", "enstrüman", "şarkı", "gitar", "piyano", "konser", "sanat", "sahne"]
+    },
+    {
+      "ad": "Optisyenlik Kulübü",
+      "ozellik": "Göz sağlığı, optik bilimler ve optisyenlik mesleğinin güncel gelişmeleri üzerine uzmanlarla seminerler ve workshop'lar yapar.",
+      "anahtar_kelimeler": ["göz", "optik", "sağlık", "bilim", "optisyen", "mesleki"]
+    },
+    {
+      "ad": "Oyun Tasarlama ve Geliştirme Kulübü",
+      "ozellik": "Dijital oyunların tasarım, kodlama ve geliştirme süreçlerini öğretir; Game Jam etkinlikleri düzenler.",
+      "anahtar_kelimeler": ["oyun", "game", "tasarım", "kodlama", "yazılım", "geliştirme"]
+    },
+    {
+      "ad": "Pazarlama Kulübü",
+      "ozellik": "Dijital pazarlama, marka yönetimi, tüketici davranışları ve reklamcılık alanlarında workshop'lar ve sektör panelleri düzenler.",
+      "anahtar_kelimeler": ["pazarlama", "reklam", "marka", "dijital", "sosyal medya", "işletme","reklamcılık"]
+    },
+    {
+      "ad": "Psikoloji Kulübü",
+      "ozellik": "Psikolojinin farklı alanlarında (klinik, gelişim, sosyal) seminerler, film gösterimleri ve vaka analizleri düzenler.",
+      "anahtar_kelimeler": ["psikoloji", "terapi", "zihin", "gelişim", "klinik", "sosyal"]
+    },
+    {
+      "ad": "Rehberlik ve Psikolojik Danışmanlık Kulübü (PDR)",
+      "ozellik": "PDR alanında mesleki gelişim, rehberlik teknikleri ve okul psikolojisi konularında etkinlikler yapar.",
+      "anahtar_kelimeler": ["PDR", "rehberlik", "danışmanlık", "psikoloji", "eğitim", "mesleki"]
+    },
+    {
+      "ad": "Rockn' Culture Kulübü",
+      "ozellik": "Rock müziği kültürü, tarihçesi ve alt türleri üzerine dinleti ve tartışma etkinlikleri düzenler; amatör gruplara destek verir.",
+      "anahtar_kelimeler": ["rock", "müzik", "kültür", "konser", "dinleti", "sanat"]
+    },
+    {
+      "ad": "Sinema Kulübü",
+      "ozellik": "Kulübümüz, sinemaya ilgi duyan ve kültürel etkinliklerden keyif alan herkes için bir buluşma noktasıdır. Film günleri düzenliyor, açık hava sinemalarıyla keyifli akşamlar yaşatıyoruz. Ödüllü Quiz day etkinliklerimiz ve ayrıca sektörün önemli isimlerini davet ederek merak ettiğimiz soruları sorabiliyoruz. Ayrıca, her yıl düzenlediğimiz Sinekültür Kısa Film Yarışması/Festivali ile genç sinemacılara eserlerini geniş kitlelere ulaştırma fırsatı sunuyoruz.Kulübümüz, sinema tutkunlarını bir araya getirerek film kültürünü yaymayı ve sinema sanatını desteklemeyi amaçlar. Film gösterimleri, tartışma grupları ve kısa film yarışmaları düzenler.",
+      "anahtar_kelimeler": ["film", "sinema", "dizi", "yönetmen", "senaryo", "kamera", "gösterim"]
+    },
+    {
+      "ad": "Sağlık Kulübü",
+      "ozellik": "Öğrencilere genel sağlık, hijyen, ilk yardım ve hastalıklardan korunma konularında bilgilendirici seminerler sunar.",
+      "anahtar_kelimeler": ["sağlık", "hijyen", "ilk yardım", "tıp", "bilinç", "yaşam"]
+    },
+    {
+      "ad": "Sanat & Sepet Topluluğu",
+      "ozellik": "El sanatları, resim, seramik gibi farklı sanat dallarında uygulamalı atölyeler ve yaratıcı hobi etkinlikleri düzenler.",
+      "anahtar_kelimeler": ["sanat", "atölye", "el sanatları", "resim", "hobi", "yaratıcılık"]
+    },
+    {
+      "ad": "Sivil Havacılık Kulübü",
+      "ozellik": "Havacılık sektörü, pilotaj, kabin memurluğu ve havaalanı işletmeciliği üzerine teknik geziler ve profesyonel seminerler düzenler.",
+      "anahtar_kelimeler": ["havacılık", "pilot", "uçak", "kabin", "teknik", "seyahat"]
+    },
+    {
+      "ad": "Sosyal Sorumluluk Kulübü",
+      "ozellik": "İhtiyaç sahiplerine yönelik yardım projeleri geliştirir, farkındalık yaratan ve topluma fayda sağlayan gönüllülük çalışmaları yürütür.",
+      "anahtar_kelimeler": ["sosyal sorumluluk", "gönüllülük", "yardım", "toplum", "aktivizm", "farkındalık"]
+    },
+    {
+      "ad": "Steam Kulübü",
+      "ozellik": "Bilim, Teknoloji, Mühendislik, Sanat ve Matematik (STEAM) alanlarını birleştirerek disiplinler arası projeler yürütür.",
+      "anahtar_kelimeler": ["bilim", "teknoloji", "sanat", "matematik", "mühendislik", "eğitim"]
+    },
+    {
+      "ad": "Teknofest Kulübü",
+      "ozellik": "Teknofest yarışmalarına katılacak takımları organize eder, İHA, roket, robotik gibi alanlarda teknik destek sağlar.",
+      "anahtar_kelimeler": ["teknofest", "yarışma", "mühendislik", "havacılık", "drone", "roket"]
+    },
+    {
+      "ad": "Teknoloji Kulübü",
+      "ozellik": "Tüm öğrencilere yönelik temel teknoloji, yazılım ve donanım konularında bilgilendirici etkinlikler ve workshop'lar düzenler.",
+      "anahtar_kelimeler": ["teknoloji", "yazılım", "donanım", "bilişim", "workshop", "eğitim"]
+    },
+    {
+      "ad": "Tiyatro Kulübü",
+      "ozellik": "İKÜ Tiyatro Kulübü, başlangıçta bir topluluk olarak kurulmuş, zamanla kulüpleşerek bugünkü adını almıştır. Her yıl yeni oyunlar sahneleyen kulüp, çeşitli tiyatro festivallerine katılmakta ve Akıngüç Oditoryumu’nda kendi festivalini düzenlemektedir. Oyunculuk eğitimleri ve doğaçlama atölyeleriyle İKÜ’yü farklı platformlarda temsil etmektedir.",
+      "anahtar_kelimeler": ["oyunculuk", "tiyatro", "sahne", "drama", "rol yapma", "sanat", "atölye","sahne sanatları","Sunum ve iletişim"]
+    },
+    {
+      "ad": "Toplumsal Cinsiyet Eşitliği Kulübü",
+      "ozellik": "Cinsiyet eşitliği, ayrımcılıkla mücadele ve toplumsal farkındalık konularında seminerler ve aktivizm etkinlikleri düzenler.",
+      "anahtar_kelimeler": ["eşitlik", "cinsiyet", "sosyal", "farkındalık", "kadın", "aktivizm"]
+    },
+    {
+      "ad": "Uluslararası Hukuk Kulübü",
+      "ozellik": "Devletler arası ilişkiler, savaş hukuku, deniz hukuku gibi uluslararası hukukun derinliklerine odaklanan seminerler düzenler.",
+      "anahtar_kelimeler": ["uluslararası", "hukuk", "siyaset", "diplomasi", "hak"]
+    },
+    {
+      "ad": "Uluslararası İlişkiler Kulübü",
+      "ozellik": "Küresel siyaset, dış politika ve jeopolitik konularında panel ve konferanslar düzenler.",
+      "anahtar_kelimeler": ["uluslararası", "siyaset", "diplomasi", "dış politika", "küresel", "ekonomi"]
+    },
+    {
+      "ad": "Vizyon Kulübü",
+      "ozellik": "Öğrencilerin kişisel vizyonlarını ve hedeflerini belirlemelerine yardımcı olan motivasyonel etkinlikler ve mentorluk buluşmaları yapar.",
+      "anahtar_kelimeler": ["gelişim", "vizyon", "hedef", "kişisel", "motivasyon", "kariyer"]
+    },
+    {
+      "ad": "WeAccept Öğrenci Kulübü",
+      "ozellik": "Kapsayıcılık, çeşitlilik ve empati konularına odaklanarak kampüste daha kabul edici bir ortam yaratmayı hedefler.",
+      "anahtar_kelimeler": ["kapsayıcılık", "çeşitlilik", "empati", "sosyal", "farkındalık"]
+    },
+    {
+      "ad": "Yapı Kulübü",
+      "ozellik": "İnşaat mühendisliği, yapı teknolojileri ve şantiye yönetimi konularında teknik geziler ve sektör buluşmaları düzenler.",
+      "anahtar_kelimeler": ["inşaat", "yapı", "mühendislik", "şantiye", "teknik", "mimarlık"]
+    },
+    {
+      "ad": "Yelken Kulübü",
+      "ozellik": "Temel yelken eğitimleri verir, denizcilik kültürü ve sporunu tanıtır; yelkenli teknelerle geziler düzenler.",
+      "anahtar_kelimeler": ["yelken", "deniz", "spor", "macera", "eğitim", "seyahat"]
+    },
+    {
+      "ad": "Yeni Medya ve İletişim Kulübü",
+      "ozellik": "Dijital iletişim, sosyal medya stratejileri, içerik üretimi ve yeni nesil yayıncılık konularında atölyeler düzenler.",
+      "anahtar_kelimeler": ["medya", "iletişim", "dijital", "sosyal medya", "içerik", "yayıncılık"]
+    },
+    {
+      "ad": "Yeşilay Kulübü",
+      "ozellik": "Bağımlılıkla mücadele (tütün, alkol, teknoloji) ve sağlıklı yaşam bilinci oluşturma konularında farkındalık çalışmaları yapar.",
+      "anahtar_kelimeler": ["Yeşilay", "bağımlılık", "sağlıklı yaşam","sosyal sorumluluk"]
+    }
+  ],
+  "sistem_rehberi": {
+    "CATS": {
+      "nedir": "Ders Yönetim Sistemi (Notlar, Ödevler, Online Dersler).",
+      "nasil_girilir": "cats.iku.edu.tr adresine UNIPASS şifrenle girersin.",
+      "online_ders": "Ders sayfasına girince sol menüde Meetings kısmı mevcut. Ders saatinde ona tıklayarak katılırsın.",
+      "odev_yukleme": "Dersin içindeki 'Ödevler' sekmesine tıkla, dosyanı sürükle ve 'Gönder' de."
+    },
+    "PUMA": {
+      "nedir": "İKÜ Mobil Uygulaması (Kulüpler, Yemekhane, Etkinlikler, Yoklama).",
+      "rozetler": "İKÜ PUMA Rozetleri; öğrencilerin kampüs etkinliklerine katılımları, kulüp üyelikleri veya uygulama içindeki belirli görevleri tamamlamaları karşılığında kazandıkları, sosyal aktiflik düzeylerini belgeleyen ve Yetkinlik Haritası'nı zenginleştiren dijital başarı sembolleridir.",
+      "kulup_kayit": "PUMA'yı aç -> 'Kulüpler' sekmesine git -> İstediğin kulübü bul ve 'Üye Ol' butonuna bas.",
+      "servis_saatleri":"PUMA'yı aç -> MY IKU kısmına tıklayıp, sayfanın altına doğru indiğinde servis saatlerini görebilirsin.",
+      "yetkinlik_haritasi": "Yetkinlik Haritası; öğrencilerin sadece ders notlarını değil, katıldıkları etkinlik, kulüp ve projelerle kazandıkları kişisel becerileri (liderlik, iletişim vb.) görselleştiren ve mezuniyette CV'lerine ekleyebilecekleri resmi bir dijital yetenek karnesidir.",
+      "ders_yoklama":"PUMA'yı aç -> MY IKU kısmına tıklayıp, sayfanın altına doğru indiğinde yoklamalarını görebilirsin. Böylece rahatça derslerdeki devam durumunu takip edebilirsin.",
+      "ders_programi": "PUMA'yı aç -> MY IKU kısmına tıklayıp, sayfanın altına doğru indiğinde haftalık ve günlük ders programını görebilirsin.",
+      "yemek_listesi": "PUMA'yı aç -> MY IKU kısmına tıklayıp, sayfanın altına doğru indiğinde yemek listesini bulabilirsin.",
+      "etkinlik_qr": "Etkinliklere/derse girerken PUMA'daki QR kodunu okutarak yoklama verirsin."
+    },
+    "ORION": {
+      "nedir": "Öğrenci Bilgi Sistemi (Resmi İşlemler).",
+      "nasil_giris_yapilir": "İKÜ ORION sistemine giriş; web tarayıcısı üzerinden 'orion.iku.edu.tr' adresine gidilerek, Kullanıcı Adı kısmına öğrenci numarası ve Şifre kısmına ise UNIPASS parolası yazılarak gerçekleştirilir. Ayrıca PUMA MY IKU sekmesinde Orion ve CATS kısayolu bulunur.",
+      "sinav_tarihleri": "Orion uygulaması üzerinden akademik işlemler sekmesi -> Sınavlarım",
+      "sinav_sonuclari": "Orion uygulaması üzerinden akademik işlemler sekmesi -> Sonuçlarım ",
+      "ders_secimi": "Akademik takvimde açıklanan tarihte Orion uygulaması üzerinden ödeme,kayıt yenileme, ders seçim sekmesi -> Ders seçimi. Unutma kayıt sepetine eklediğin dersler gün sonu sepetinden silinir! ",
+      "CAP/Yandal_basvurulari": "Orion uygulaması üzerinden akademik işlemler sekmesi -> ÇAP/YANDAL Başvuruları",
+      "transkript" : "Öğrencinin eğitim hayatı boyunca aldığı tüm dersleri, harf notlarını ve Genel Not Ortalamasını (GNO) gösteren resmi belgedir; staj, iş başvurusu veya yatay geçiş işlemleri için Orion sistemi Belge Talebi Bilgileri sekmesinden temin edilebilir. ", 
+      "staj": "Staj başvuruları ve onay süreçleri buradan takip edilir."
+    }
+  },
+
+ "kampus_notlari": {
+
+"kantin_ve_yemek_tuyolari": [
+        "Ataköy yerleşkesinde öğlen 12.00-13.00 arası yemekhane sırası inanılmaz uzar. Ya 11.45 gibi git ya da 13.30'u bekle.",
+        "İncirli yerleşkesinin kantini daha samimidir, tostları hayat kurtarır. Ders aralarında hızlıca atıştırmak için idealdir. Ayrıca makarnası meşhurdur. Çetin abiye benden selam söyleyin 😊",
+        "Ataköy'de Starbucks sırası bazen ders kaçırtır. Acelen varsa arka bahçedeki diğer kahvecileri tercih et, hem daha sakin hem sıra az.",
+        "Kantin fiyatları dışarıya göre bir tık daha uygundur ama her gün dışarıdan kahve almak bütçeyi yorar. Termosunu kap gel, kampüste sıcak su bulmak kolay.",
+        "Bahçelievler kampüsünde (Hukukçuların yeri) kantin muhabbetleri genelde dava ve kanun üzerinedir, sessizlik arıyorsan yanlış yerdesin."
+    ],
+    "gizli_ders_calisma_yerleri": [
+        "Ataköy Kütüphanesi'nin en alt katı 'Sessiz Çalışma Alanı'dır. Çıt çıkmaz, odaklanmak için birebir.",
+        "Vize ve final haftalarında kütüphane genelde 7/24 açık olur ve çorba ikramı yapılır. Yer kapmak için sabahlamak gerekebilir.",
+        "Ataköy binasında üst katlarda (özellikle 3. ve 4. kat) dersi olmayan boş sınıflar, grup çalışması yapmak için gizli cennettir.",
+        "İncirli yerleşkesinde ders çalışmak için en iyi zaman, sabah erken saatlerdir. Öğleden sonra kampüs epey hareketlenir."
+    ],
+    "ulasim_ve_hayatta_kalma": [
+        "Ataköy kampüsü için 'Yenibosna' metrobüs durağı altın değerindedir. Köprüyü geçip 5 dakika yürüyerek okula girersin.",
+        "Okulun ücretsiz 'Ring Servisleri' vardır. Özellikle İncirli - Ataköy arası geçiş yapacaksan saatlerini PUMA'dan takip et, akbil parası cebinde kalsın.",
+        "Arabayla geliyorsan sabah 08.45'ten sonra otoparkta yer bulmak piyangodur. Toplu taşıma her zaman daha garanti.",
+        "Ataköy arka bahçe sosyalleşmenin kalbidir. Yazın çimlerde oturanlar, kışın ısıtıcı altında kahve içenlerle doludur."
+    ],
+    "sosyal_ipucu": [
+        "Öğrenci kulüplerine kesinlikle üye ol. Özellikle 'Kültür Gezi', 'Tiyatro' ve 'Bilişim' kulüpleri çok aktiftir. Network yapmanın en kolay yoludur.",
+        "Erdem Hoca'nın (Bilgisayar Programcılığı bölüm başkanı) odası her zaman öğrencilere açıktır ama sınav haftası çok yoğun olur, sorularını son güne bırakma.",
+        "Okulun kedileri kampüsün asıl sahipleridir. Kantinde yemeğini paylaşmanı beklerler, şaşırma."
+    ]
+
+  }
+
+}
+
+
+
+
+
+
+
+
